@@ -1,4 +1,4 @@
-# 🎤 Assistente de Voz em Python (ASHILEY)
+# 🎤 Assistente de Voz em Python 
 
 🚀 Sobre o Projeto
 Este é um assistente de voz offline que permite controlar seu computador através de comandos de voz. Com uma interface gráfica moderna e intuitiva, o assistente pode abrir sites, programas, pastas, arquivos e informar hora e data - tudo sem depender de serviços cloud.
