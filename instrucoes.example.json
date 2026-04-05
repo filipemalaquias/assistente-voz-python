@@ -1,0 +1,22 @@
+{
+    "abrir google": {
+        "acao": "abrir_site",
+        "valor": "https://www.google.com"
+    },
+    "abrir youtube": {
+        "acao": "abrir_site",
+        "valor": "https://www.youtube.com"
+    },
+    "abrir downloads": {
+        "acao": "abrir_pasta",
+        "valor": "C:\\Users\\SEU_USUARIO\\Downloads"
+    },
+    "abrir documentos": {
+        "acao": "abrir_pasta",
+        "valor": "C:\\Users\\SEU_USUARIO\\Documents"
+    },
+    "abrir bloco de notas": {
+        "acao": "abrir_programa",
+        "valor": "notepad.exe"
+    }
+}
